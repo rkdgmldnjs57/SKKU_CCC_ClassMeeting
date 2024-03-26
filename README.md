@@ -12,11 +12,6 @@ SKKU GLS -> 수업영역 -> 학사-교양/기타과목 -> 자과캠 영쓰/영�
 저 말고 쓸 사람이 있을진 모르겠지만,, 무튼 대표단 화이팅~~!
 
 # 적용 예시
-<div style="display: flex;">
-    <img src="img/before.png" alt="before" style="width: 50%;">
-    <img src="img/after.png" alt="after" style="width: 50%;">
-</div>
-<div style="display: flex;">
-  <div style="width:50%; text-align:center">적용 전</div>
-  <div style="width:50%; text-align:center">적용 후</div>
-</div>
+| 적용 전                           | 적용 후                           |
+|-----------------------------------|-----------------------------------|
+| ![before](img/before.png)         | ![after](img/after.png)           |
