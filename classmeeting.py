@@ -50,6 +50,6 @@ def process_excel(file_path):
 
     print("두 번째 열의 정보가 성공적으로 추출되어 엑셀 파일에 추가되었습니다.")
 
-# 처리할 엑셀 파일 경로 입력
-excel_file_path = '영발원본.xlsx'
+# !!!!아래에 다운받은 엑셀 파일 이름을 적어주세요!!!!
+excel_file_path = '영쓰원본.xlsx'
 process_excel(excel_file_path)
